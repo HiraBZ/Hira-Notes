@@ -4,7 +4,7 @@ The ORBITAL Mission is a project/program that involves steps and different plate
 The ORBITAL Mission control is build of 4 steps and 4 plateforms. 
 
 ## ORBITAL Mission Control
-Orbital mission control has a few different sequences
+Orbital mission control has a 4 step sequences
  
 ### ORBITAL:
 1. STARTUP Sequence
