@@ -33,12 +33,13 @@ Roles & Responsibilities of the institutions
 INSTAR Lab- research institution. Also controlling ORBITAL Mission control. 
    * ORBITAL MISSION CONTROL
    
-## 2. World Enterprise
+## 2. World Enterprise -
+RT will be making products and handing it to World Enterprise. Enterprise will then be the face of product. The world will see the product made by RT. RT will be working at the back end. WE will be working at the front end.
    * Build Worlds
      * Launch Products
 
 ## 3. RevelTek -
-RT will provide consultation on behalf of WE (World Enterprise)
+RT will provide consultation on behalf of WE (World Enterprise). RT will be doing the main work. RT will be making products and handing it to World Enterprise. Enterprise will then be the face of product. The world will see the product made by RT. RT will be working at the back end. WE will be working at the front end. 
    * Provide Consulting
    * Tech Consulting
 
