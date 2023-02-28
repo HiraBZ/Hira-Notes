@@ -28,10 +28,15 @@ Roles & Responsibilities of the institutions
 ## 2. World Enterprise
    * Build Worlds
      * Launch Products
-RevelTek
-Provide ConsultingTech Consulting
-Timmsi
-TimmsiLandORBITAL SimulationsDROID Playground
+
+## 3. RevelTek
+   * Provide Consulting
+   * Tech Consulting
+
+## 4. Timmsi
+   * Timmsi Land
+   * ORBITAL Simulations
+   * DROID Playground
  
 
 
