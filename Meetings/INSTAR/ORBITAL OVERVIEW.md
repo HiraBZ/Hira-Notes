@@ -13,6 +13,12 @@ Orbital mission control has a 4 step sequences
 3. GRANT Accelerator
 4. STAR Mission Control
 
+### Important Questions to Answer
+1. How to work/be at a START-UP Sequence? 
+2. How to build DROIDS framework?
+3. How to get GRANT and how to achieve/ complete GRANT Accelerator
+4. How to work with mission control. 
+
 
 Following are the 4 plateforms
 
