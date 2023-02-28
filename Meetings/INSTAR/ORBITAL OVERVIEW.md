@@ -34,7 +34,7 @@ INSTAR Lab- research institution. Also controlling ORBITAL Mission control.
    * ORBITAL MISSION CONTROL
    
 ## 2. World Enterprise -
-RT will be making products and handing it to World Enterprise. Enterprise will then be the face of product. The world will see the product made by RT. RT will be working at the back end. WE will be working at the front end.
+World Enterprise will use ORBITAL made by INSTAR Lab to build world. RT will be making products and handing it to World Enterprise. Enterprise will then be the face of product. The world will see the product made by RT. RT will be working at the back end. WE will be working at the front end.
    * Build Worlds
      * Launch Products
 
