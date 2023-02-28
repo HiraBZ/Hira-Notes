@@ -24,9 +24,10 @@ Roles & Responsibilities of the institutions
 
 ## 1. INSTAr LAB
    * ORBITAL MISSION CONTROL
-World Enterprise
-Build Worlds
-Launch Products
+   
+## 2. World Enterprise
+   * Build Worlds
+     * Launch Products
 RevelTek
 Provide ConsultingTech Consulting
 Timmsi
