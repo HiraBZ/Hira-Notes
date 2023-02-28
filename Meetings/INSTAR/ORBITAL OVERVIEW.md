@@ -30,7 +30,7 @@ Following are the 4 plateforms
 Roles & Responsibilities of the institutions 
 
 ## 1. INSTAr LAB- 
-INSTAR Lab- research institution. Also controlling ORBITAL Mission control. 
+INSTAR Lab- research institution. Also controlling ORBITAL Mission control. INSTAR Designs ORBITAL Mission and WE put it on motion. 
    * ORBITAL MISSION CONTROL
    
 ## 2. World Enterprise -
